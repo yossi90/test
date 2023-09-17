@@ -3,3 +3,4 @@ It's test file
 123
 
 56789
+privet mir!
