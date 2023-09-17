@@ -6,3 +6,4 @@ It's test file
 56789
 privet mir!
 commit line
+new branch line
