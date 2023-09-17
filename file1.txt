@@ -1,6 +1,7 @@
 It's test file
 
 0911
+123+321
 
 56789
 privet mir!
